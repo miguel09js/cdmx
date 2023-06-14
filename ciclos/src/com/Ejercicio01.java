@@ -8,7 +8,7 @@ public static void main(String[] args) {
 		
 		System.out.println("TABLA DE MULTIPLICAR DEL 12");
 		
-		int tabla = 12;
+		int tabla = 123;
 		int i=1;
 		
 		while (i<=10) {
